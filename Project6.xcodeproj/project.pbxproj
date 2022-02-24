@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E5A99F7D27BC2339006C1B25 /* Project2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E5A99F7D27BC2339006C1B25 /* Project6.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project6.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5A99F8027BC2339006C1B25 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E5A99F8227BC2339006C1B25 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		E5A99F8427BC2339006C1B25 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		E5A99F7E27BC2339006C1B25 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E5A99F7D27BC2339006C1B25 /* Project2.app */,
+				E5A99F7D27BC2339006C1B25 /* Project6.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E5A99F7C27BC2339006C1B25 /* Project2 */ = {
+		E5A99F7C27BC2339006C1B25 /* Project6 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E5A99F9127BC233B006C1B25 /* Build configuration list for PBXNativeTarget "Project2" */;
+			buildConfigurationList = E5A99F9127BC233B006C1B25 /* Build configuration list for PBXNativeTarget "Project6" */;
 			buildPhases = (
 				E5A99F7927BC2339006C1B25 /* Sources */,
 				E5A99F7A27BC2339006C1B25 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = Project2;
+			name = Project6;
 			productName = Project2;
-			productReference = E5A99F7D27BC2339006C1B25 /* Project2.app */;
+			productReference = E5A99F7D27BC2339006C1B25 /* Project6.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E5A99F7827BC2339006C1B25 /* Build configuration list for PBXProject "Project2" */;
+			buildConfigurationList = E5A99F7827BC2339006C1B25 /* Build configuration list for PBXProject "Project6" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E5A99F7C27BC2339006C1B25 /* Project2 */,
+				E5A99F7C27BC2339006C1B25 /* Project6 */,
 			);
 		};
 /* End PBXProject section */
@@ -295,6 +295,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeRight UIInterfaceOrientationLandscapeLeft";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -323,6 +324,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeRight UIInterfaceOrientationLandscapeLeft";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -341,7 +343,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E5A99F7827BC2339006C1B25 /* Build configuration list for PBXProject "Project2" */ = {
+		E5A99F7827BC2339006C1B25 /* Build configuration list for PBXProject "Project6" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E5A99F8F27BC233B006C1B25 /* Debug */,
@@ -350,7 +352,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E5A99F9127BC233B006C1B25 /* Build configuration list for PBXNativeTarget "Project2" */ = {
+		E5A99F9127BC233B006C1B25 /* Build configuration list for PBXNativeTarget "Project6" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E5A99F9227BC233B006C1B25 /* Debug */,
